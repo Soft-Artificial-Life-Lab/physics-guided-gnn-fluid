@@ -1,0 +1,36 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.eggs/
+
+.venv/
+venv/
+env/
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Nothing large belongs in this repository: no datasets, no checkpoints,
+# no rollout dumps. The unit is code.
+*.pt
+*.pth
+*.npz
+*.npy
+*.h5
+*.hdf5
+*.tfrecord
+datasets/
+checkpoints/
+logs/
+runs/
+wandb/
+outputs/
