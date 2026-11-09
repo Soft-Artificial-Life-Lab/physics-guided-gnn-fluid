@@ -106,4 +106,3 @@ python scripts/validation/v5_20260820_022909_rollout_water3d.py
 ## 라이선스
 
 MIT. 저작권자는 제주대학교 Soft Artificial Life Laboratory 박승민이다.
-MIT는 특허권을 주지 않는다.
